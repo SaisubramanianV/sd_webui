@@ -1,2 +1,1 @@
-# sd_webui
-Inpaint Anything
+Inpaint Anything using Grounded SAM
